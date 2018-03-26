@@ -1,0 +1,11 @@
+C:\Users\海绵宝宝\Documents\Visual Studio 2015\Projects\云码管家桌面版\云码管家桌面版\bin\Release\云码管家桌面版.exe.config
+C:\Users\海绵宝宝\Documents\Visual Studio 2015\Projects\云码管家桌面版\云码管家桌面版\obj\Release\Interop.MSScriptControl.dll
+C:\Users\海绵宝宝\Documents\Visual Studio 2015\Projects\云码管家桌面版\云码管家桌面版\obj\Release\云码管家桌面版.csproj.ResolveComReference.cache
+C:\Users\海绵宝宝\Documents\Visual Studio 2015\Projects\云码管家桌面版\云码管家桌面版\obj\Release\云码管家桌面版.Controls.add_code.resources
+C:\Users\海绵宝宝\Documents\Visual Studio 2015\Projects\云码管家桌面版\云码管家桌面版\obj\Release\云码管家桌面版.Controls.daima.resources
+C:\Users\海绵宝宝\Documents\Visual Studio 2015\Projects\云码管家桌面版\云码管家桌面版\obj\Release\云码管家桌面版.Controls.hm_siren.resources
+C:\Users\海绵宝宝\Documents\Visual Studio 2015\Projects\云码管家桌面版\云码管家桌面版\obj\Release\云码管家桌面版.Controls.message.resources
+C:\Users\海绵宝宝\Documents\Visual Studio 2015\Projects\云码管家桌面版\云码管家桌面版\obj\Release\云码管家桌面版.Form1.resources
+C:\Users\海绵宝宝\Documents\Visual Studio 2015\Projects\云码管家桌面版\云码管家桌面版\obj\Release\云码管家桌面版.login.resources
+C:\Users\海绵宝宝\Documents\Visual Studio 2015\Projects\云码管家桌面版\云码管家桌面版\obj\Release\云码管家桌面版.Properties.Resources.resources
+C:\Users\海绵宝宝\Documents\Visual Studio 2015\Projects\云码管家桌面版\云码管家桌面版\obj\Release\云码管家桌面版.csproj.GenerateResource.Cache
